@@ -100,6 +100,6 @@ theme: journal
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/lyuxiao/lyuxiao.github.io
+  repository: https://github.com/cc0la/c0la.github.io
   branch: master
 
